@@ -1,0 +1,22 @@
+{
+  "name": "random-messages",
+  "version": "0.0.1",
+  "description": "Un paquete para prácticar fundamentos de npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistofjoy/random-messages.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jhonkar Sufia @mistofjoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mistofjoy/random-messages/issues"
+  },
+  "homepage": "https://github.com/mistofjoy/random-messages#readme"
+}
